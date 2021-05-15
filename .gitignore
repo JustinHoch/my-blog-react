@@ -1,0 +1,51 @@
+# my-blog-backend
+my-blog-backend/node_modules
+
+# dependencies
+my-blog-backend/node_modules
+my-blog-backend/.pnp
+my-blog-backend/.pnp.js
+
+# testing
+my-blog-backend/coverage
+
+# production
+my-blog-backend/build
+
+# misc
+my-blog-backend/.DS_Store
+my-blog-backend/.env
+my-blog-backend/.env.local
+my-blog-backend/.env.development.local
+my-blog-backend/.env.test.local
+my-blog-backend/.env.production.local
+
+my-blog-backend/npm-debug.log*
+my-blog-backend/yarn-debug.log*
+my-blog-backend/yarn-error.log*
+
+
+# my-blog-frontend
+
+# dependencies
+my-blog-frontend/node_modules
+my-blog-frontend/.pnp
+my-blog-frontend/.pnp.js
+
+# testing
+my-blog-frontend/coverage
+
+# production
+my-blog-frontend/build
+
+# misc
+my-blog-frontend/.DS_Store
+my-blog-frontend/.env.local
+my-blog-frontend/.env.development.local
+my-blog-frontend/.env.test.local
+my-blog-frontend/.env.production.local
+notes.txt
+
+my-blog-frontend/npm-debug.log*
+my-blog-frontend/yarn-debug.log*
+my-blog-frontend/yarn-error.log*
