@@ -1,1 +1,2 @@
-C:\Users\Justin\Documents\react-projects\my-blog\my-blog-frontend\package.json
+# My-Blog Backend
+The backend of this website was made following [Shaun Wassell's tutorial](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site) on Linkedin Learning.
